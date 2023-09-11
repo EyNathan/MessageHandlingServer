@@ -3,5 +3,6 @@ public class helloWorld {
         System.out.println("Hello World");
         System.out.println("Eyal Natan");
         System.out.println(32 / 2);
+        System.out.println();
     }
 }
